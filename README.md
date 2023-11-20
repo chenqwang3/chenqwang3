@@ -1,3 +1,3 @@
-- 👋 Hi, I’m currently a undergraduate student at City University of Hong Kong
-- 👀 I’m interested in Quantitative Finance and Data Analytics
-- 🌱 I’m currently learning Python and R
+- 👋 Hi, I’m currently a graduate student at Carnegie Mellon University
+- 👀 I’m interested in Data Science, Data Analytics and Quantitative Finance
+- 🌱 I’m currently learning Maching Learning and NLP using Python
